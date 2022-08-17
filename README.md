@@ -17,6 +17,7 @@ In a video, there are so many frames that are not important to see or check cont
 
 ## Results
 ![result](/data/Picture3.png)
+
 | Methods | Accuracy |
 | -------- | -------- |
 | PL | 65.33% |
