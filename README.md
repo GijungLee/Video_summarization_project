@@ -8,6 +8,13 @@ In a video, there are so many frames that are not important to see or check cont
 ## Algorithms
 ![Algorithms](/data/Picture2.png)
 
+## Steps
+- The first step is to extract frames in a video
+- The second step is generating pseudo labels for the frames
+  - Inforamation_theoretic Learning-Autoencoder (ITL-AE)
+- The third step is to classify actual frames by comparing with reconstruction scores and pseudo labels
+- The fourth step is generating a summarized video
+
 ## Results
 
 
