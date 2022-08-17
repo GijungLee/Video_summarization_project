@@ -24,7 +24,7 @@ In a video, there are so many frames that are not important to see or check cont
 
 Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
 
-### Confusion Matrix
+Confusion Matrix
 ![result2](/data/Picture4.png)
 
 
