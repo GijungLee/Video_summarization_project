@@ -15,9 +15,13 @@ In a video, there are so many frames that are not important to see or check cont
 ### Algorithms
 ![Algorithms](/data/Picture2.png)
 
-
-
 ## Results
+| Methods | Accuracy |
+| -------- | -------- |
+| PL | 65.33% |
+| PL + RL | 87.44% |
+Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
+
 
 
 ## Dataset
