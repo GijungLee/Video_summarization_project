@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-** Repository for your SOD-based event detection project
-- Maintain good quality code
-- Add comments and structure
-- Ensure readability and portability
-=======
 # Video_summarization_project
 Unsupervised video summarization using ITL- Autoencoder
 
@@ -31,4 +25,3 @@ In a video, there are so many frames that are not important to see or check cont
 - Paper: [Detection of Marine Animals in a New Underwater Dataset with Varying Visibility](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Pedersen_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_CVPRW_2019_paper.pdf)
 - Data: [The Brackish Dataset](https://www.kaggle.com/aalborguniversity/brackish-dataset)
 ![A group of Sticklebacks](/data/ex1-980x551.png) ![Lumpsucker in clear water](/data/BigFish1.png)
->>>>>>> 2460662938a4f92660ed0971f8a7e5439d2d23ec
