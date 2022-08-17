@@ -16,12 +16,16 @@ In a video, there are so many frames that are not important to see or check cont
 ![Algorithms](/data/Picture2.png)
 
 ## Results
+![result](/data/Picture3.png)
 | Methods | Accuracy |
 | -------- | -------- |
 | PL | 65.33% |
 | PL + RL | 87.44% |
 
 Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
+
+### Confusion Matrix
+![result2](/data/Picture4.png)
 
 
 
