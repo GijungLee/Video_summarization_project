@@ -6,14 +6,14 @@ In a video, there are so many frames that are not important to see or check cont
 Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijunglee.github.io/assets/video_report.pdf)
 
 ## Steps
-<img src="/data/Picture1.png" width="800" height="400">
+<img src="/data/Picture1.png" width="1000" height="300">
 - The first step is to extract frames in a video
 - The second step is generating pseudo labels for the frames
   - Inforamation_theoretic Learning-Autoencoder (ITL-AE)
 - The third step is to classify actual frames by comparing with reconstruction scores and pseudo labels
 - The fourth step is generating a summarized video
 ### Algorithms
-<img src="/data/Picture2.png" width="1000" height="500">
+<img src="/data/Picture2.png" width="1000" height="300">
 ## Results
 ![result](/data/Picture3.png)
 
