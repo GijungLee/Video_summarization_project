@@ -21,17 +21,16 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 <img src="/data/download.png" width="1000" height="350">
 
 ### Table
+
+**Results of video summarization** 
 | Methods | Accuracy |
 | -------- | -------- |
 | Pseudo labels | 65.33% |
 | Pseudo labels + Reconstruction loss | 87.44% |
 
-**Results of video summarization** 
-
 ### Confusion Matrix
+
 <img src="/data/Picture4.png" width="300" height="250">
-
-
 
 ## Dataset
 - The brackish dataset contains 89 videos are provided with annotations in the AAU Bounding Box, YOLO Darknet, and MS COCO formats. Fish are annotated in six coarse categories. Categories: Big fish, Small fish, Crab, Shrimp, Jellyfish, Starfish.
