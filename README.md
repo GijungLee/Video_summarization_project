@@ -23,9 +23,10 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 ### Table
 | Methods | Accuracy |
 | -------- | -------- |
-| PL | 65.33% |
-| PL + RL | 87.44% |
-**Results of video summarization - PL: Pseudo labels, RL: Reconstruction loss**
+| Pseudo labels | 65.33% |
+| Pseudo labels + Reconstruction loss | 87.44% |
+
+**Results of video summarization** 
 
 ### Confusion Matrix
 <img src="/data/Picture4.png" width="300" height="250">
