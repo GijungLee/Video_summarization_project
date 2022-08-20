@@ -14,7 +14,7 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 - The fourth step is generating a summarized video
 ### Algorithms
 ![Algorithms](/data/Picture2.png)
-<img src="/data/Picture2.png" width="1000" height="1000">
+<img src="/data/Picture2.png" width="700" height="500">
 ## Results
 ![result](/data/Picture3.png)
 
