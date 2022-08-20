@@ -28,7 +28,7 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
 
 ### Confusion Matrix
-<img src="/data/Picture4.png" width="400" height="350">
+<img src="/data/Picture4.png" width="300" height="250">
 
 
 
