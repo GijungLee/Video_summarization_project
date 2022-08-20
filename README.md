@@ -18,7 +18,7 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 <img src="/data/Picture2.png" width="1000" height="350">
 
 ## Results
-<img src="/data/Picture3.png" width="1000" height="350">
+<img src="/data/download.png" width="1000" height="350">
 
 | Methods | Accuracy |
 | -------- | -------- |
