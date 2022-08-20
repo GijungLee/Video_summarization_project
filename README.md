@@ -6,6 +6,7 @@ In a video, there are so many frames that are not important to see or check cont
 Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijunglee.github.io/assets/video_report.pdf)
 
 ## Steps
+
 <img src="/data/Picture1.png" width="1000" height="350">
 
 - The first step is to extract frames in a video
@@ -15,14 +16,17 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 - The fourth step is generating a summarized video
 
 ## Algorithms
+
 <img src="/data/Picture2.png" width="1000" height="350">
 
 ## Results
+
 <img src="/data/download.png" width="1000" height="350">
 
 ### Table
 
 **Results of video summarization** 
+
 | Methods | Accuracy |
 | -------- | -------- |
 | Pseudo labels | 65.33% |
@@ -33,6 +37,7 @@ Paper: [Unsupervised video summarization using ITL-Autoencoder](https://gijungle
 <img src="/data/Picture4.png" width="300" height="250">
 
 ## Dataset
+
 - The brackish dataset contains 89 videos are provided with annotations in the AAU Bounding Box, YOLO Darknet, and MS COCO formats. Fish are annotated in six coarse categories. Categories: Big fish, Small fish, Crab, Shrimp, Jellyfish, Starfish.
 - Paper: [Detection of Marine Animals in a New Underwater Dataset with Varying Visibility](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Pedersen_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_CVPRW_2019_paper.pdf)
 - Data: [The Brackish Dataset](https://www.kaggle.com/aalborguniversity/brackish-dataset)
